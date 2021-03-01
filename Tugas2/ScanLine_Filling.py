@@ -70,7 +70,7 @@ def display():
 
 def main():
     os.system('cls')
-    print("CLIKC RIGHT MOUSE BUTTON SCAN LINE FILLING IN THE DESIRED AREA.")
+    print("CLICK RIGHT MOUSE BUTTON SCAN LINE FILLING IN THE DESIRED AREA.")
     glutInit(sys.argv)
     glutInitDisplayMode(GLUT_SINGLE | GLUT_RGB)
     glutInitWindowSize(width, height)
